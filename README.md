@@ -78,3 +78,4 @@ To run this example from the Web UI, you can same steps following done on the CL
 <img src="http://img.youtube.com/vi/uocucZqg_0I/0.jpg" 
 alt="OpenShift 3: Node.js Sample" width="240" height="180" border="10" /></a>
 
+o
